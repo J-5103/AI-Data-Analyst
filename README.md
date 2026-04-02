@@ -94,4 +94,6 @@ It motivates me to build more awesome AI projects!
 *Built with ❤️ using LangChain + LangGraph + Groq*
 
 # Outputs (optional)
-outputs/
+
+<img width="2084" height="1475" alt="sales_dashboard" src="https://github.com/user-attachments/assets/9ec7fc7b-4efb-4e03-a37b-75457a6b3337" />
+

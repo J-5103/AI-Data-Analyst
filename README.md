@@ -30,29 +30,8 @@ An intelligent data analysis agent built with **LangGraph** and **LangChain** th
 
 ## 🧠 LangGraph Workflow
 
-START
-  │
-  ▼
-┌─────────────────┐
-│  load_data_node  │  ← Reads CSV, creates summary
-└────────┬────────┘
-         │
-         ▼
-┌──────────────────┐
-│ analyze_data_node │  ← Pandas Agent + Groq LLM
-└────────┬─────────┘
-         │
-         ▼
-┌───────────────────┐
-│visualize_data_node │  ← Generates 4 charts
-└────────┬──────────┘
-         │
-         ▼
-┌────────────────────┐
-│generate_report_node │  ← Business report
-└────────┬───────────┘
-         │
-        END
+<img width="588" height="838" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/1d995b4b-b35c-4958-9432-6d09a77b1c0a" />
+
 
 ## 🛠️ Tech Stack
 

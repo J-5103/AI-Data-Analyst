@@ -35,13 +35,13 @@ An intelligent data analysis agent built with **LangGraph** and **LangChain** th
 
 ## 🛠️ Tech Stack
 
- **LangGraph** -> Multi-node workflow orchestration 
- **LangChain** -> Pandas Agent for data analysis |
- **Groq API** -> Free LLM (Llama 3.3 70B) |
- **Pandas** -> Data manipulation |
- **Matplotlib** -> Charts and visualizations |
- **openpyxl** -> Excel file support |
- **Python 3.10+** -> Programming language |
+ - **LangGraph** -> Multi-node workflow orchestration 
+ - **LangChain** -> Pandas Agent for data analysis 
+ - **Groq API** -> Free LLM (Llama 3.3 70B) 
+ - **Pandas** -> Data manipulation 
+ - **Matplotlib** -> Charts and visualizations 
+-  **openpyxl** -> Excel file support 
+ - **Python 3.10+** -> Programming language 
 
 
 ## 📊 Sample Output
@@ -93,7 +93,7 @@ It motivates me to build more awesome AI projects!
 
 *Built with ❤️ using LangChain + LangGraph + Groq*
 
-# Outputs (optional)
+# Outputs
 
 <img width="2084" height="1475" alt="sales_dashboard" src="https://github.com/user-attachments/assets/9ec7fc7b-4efb-4e03-a37b-75457a6b3337" />
 
